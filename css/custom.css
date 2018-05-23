@@ -1,0 +1,250 @@
+.orange1 {
+	background-color: #fd7e14;
+}
+.textorange1 {
+	color: #fd7e14;
+}
+
+h1,h2,h3 {
+	color: #fd7e14;
+	padding-top: 10px;
+
+}
+input,textarea{
+	color: #051A3E;
+	background-color: #fd7e14;
+}
+.blue1{
+	background-color: #051A3E;
+}
+.textblue1{
+	color: #051A3E;
+}
+label{
+	color: #051A3E;
+}
+img{
+	padding-right: 100px;
+	padding-left: 10px;
+}
+.border1{
+	border-style: solid;
+	border-width: thin;
+	border-color:#051A3E;
+	margin-right: 500px;
+}
+.borderb{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color:#051A3E;
+}
+.bordertb{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color:#051A3E;
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 358px;
+	
+}
+.bordertt{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color:#051A3E;
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 330px;
+	
+}
+.bordert{
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 280px;
+}
+.bordert2{
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 19px;
+}
+.padding{
+	padding-left: 10px;
+}
+.bigpadding{
+	padding-left: 100px;
+}
+.biggerpadding{
+	padding-left: 170px;
+}
+.size{
+	font-size: 15px;
+}
+.right{
+	padding-right: 100px;
+}
+.left{
+	padding-left:400px;
+}
+.contentleft{
+	padding-left: 130px;
+}
+
+
+
+
+
+.rahmen{
+	border-style: solid;
+	border-color: #051A3E;
+	border-width: thin;
+	margin-right: 700px;
+	
+}
+.texteinrücken{
+	padding-left: 10px;
+}
+.textbegrenzung{
+	margin-right: 500px;
+}
+.unterschriftlinks{
+	font-size: 12px;
+	padding-left: 204px;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-width: thin;
+	border-color:#051A3E;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.unterschriftrechts{
+	font-size: 12px;
+	padding-left: 204px;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-width: thin;
+	border-color:#051A3E;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.azubi{
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 40px;
+	line-height: 2.5;
+
+}
+.ausbilder{
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 80px;
+}
+.datum{
+	height: 50px;
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 40px;
+}
+.block {
+	height: 190px;
+	width: 500px;
+	display: block;
+	word-break: break-all;
+}	
+	
+/* <--------------------------------------------------------------------------------------------------------------------------------------> */
+	
+	
+	
+.xrahmen{
+	border-style: solid;
+	border-color: #051A3E;
+	border-width: 2px;
+	margin-right: 0px;
+	
+}
+.xtexteinruecken{
+	padding-left: 10px;
+}
+
+
+.xunterschriftlinks{
+	float: left;
+	font-size: 12px;
+	padding-left: 293px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	padding-right: 5px;
+	border-spacing: 0px;
+	border-width: 2px;
+	border-color:#051A3E;
+	
+}
+.xunterschriftrechts{
+	float: right;
+	font-size: 12px;
+	padding-left: 294px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-right: 5px;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-width: 2px;
+	border-color:#051A3E;
+	
+	
+}
+.xazubi{
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 40px;
+	line-height: 2.5;
+
+}
+.xausbilder{
+	font-size: 10px;
+	font-weight: bold;
+	padding-left:80px;
+	line-height: 2.5;
+}
+.xdatum{
+	height: 50px;
+	font-size: 10px;
+	font-weight: bold;
+	padding-left: 140px;
+	
+}
+.xblock {
+	height: 190px;
+	width: 680px;
+	display: block;
+	word-break: break-all;
+}
+.xbordertb{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color:#051A3E;
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 529px;
+	background-color: grey;
+	
+}
+.xbordertt{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color:#051A3E;
+	border-top-style: solid;
+	border-top-width: thin;
+	border-top-color:#051A3E;
+	padding-right: 511px;
+	background-color: grey;
+}
+
